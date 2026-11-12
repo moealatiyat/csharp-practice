@@ -9,7 +9,7 @@
 
         return a+b;
     }
-    public static void Main(string[] args){
+    public void Main(string[] args){
         num1=10;
         num2=15;
         Calculator calc = new Calculator();
