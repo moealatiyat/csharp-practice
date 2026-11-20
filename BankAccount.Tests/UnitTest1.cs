@@ -19,4 +19,4 @@ public class Tests
         // Assert
         Assert.That(account.GetBalance(), Is.EqualTo(1500));
     }
-}
+}  
